@@ -1,0 +1,12 @@
+server:
+  port : 8090
+spring:
+  profiles:
+      active: local
+#  jpa:
+#    hibernate:
+#      ddl-auto: create
+  datasource:
+    url: jdbc:postgresql://ep-twilight-sound-50986431.ap-southeast-1.aws.neon.tech/neondb
+    username: anuragsrmcse
+    password: 9o0FtwHCMJmN
