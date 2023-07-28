@@ -1,4 +1,4 @@
-# splitwise
+# Splitwise
 Splitwise
 
 This is The Gradle project to run the project run the below command
